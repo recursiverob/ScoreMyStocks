@@ -1,6 +1,6 @@
 # Stock Portfolio Analyzer
 
-I built project in React, and used Vite to setup the Environment(I wanted to try it out) that evaluates the performance of stocks in your portfolio and provides recommendations for redistributing funds. The analysis is based on key financial metrics and generates  insights to improve your portfolio.
+I built this project in React and used Vite to set up the Environment (I wanted to try it out). This project is a tool that evaluates the performance of stocks in your portfolio and provides recommendations for redistributing funds. The analysis is based on key financial metrics and generates  insights to improve your portfolio. All you do is enter the stock symbol and amount in dollars you have invested in the stock(s), and it will give you an analyzation of your portfolio.
 
 ---
 
@@ -20,7 +20,7 @@ I built project in React, and used Vite to setup the Environment(I wanted to try
 - **Axios**: For making API calls.
 - **Alpha Vantage API**: For fetching financial data.
 - **CSS**: For styling the components.
-- **VIte**: For setting up the environment. I wanted to try out Vite, I only used it for setting up the environment, as it helped create all the folders and files for me(package.json, etc), and IMO, was  beginner-friendly
+- **VIte**: For setting up the environment. I wanted to try out Vite, I only used it for setting up the environment, as it helped create all the folders and files for me (package.json, etc), and IMO, was  beginner-friendly
 - **JavaScript**: I decided to build this project with JavaScript rather than TypeScript, as I just wanted to try it out with React.
 
 ---
