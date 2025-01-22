@@ -2,6 +2,7 @@
   "name": "stockanalysistool",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://recursiveRob.github.io/ScoreMyStocks",
   "type": "module",
   "scripts": {
     "dev": "vite",
