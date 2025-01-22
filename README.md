@@ -1,0 +1,2 @@
+# ScoreMyStocks
+Stock/Portfolio Analyzer 
