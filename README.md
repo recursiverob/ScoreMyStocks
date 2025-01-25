@@ -20,7 +20,7 @@ I built this project in React and used Vite to set up the Environment (I wanted 
 - **Axios**: For making API calls.
 - **Alpha Vantage API**: For fetching financial data.
 - **CSS**: For styling the components.
-- **VIte**: For setting up the environment. I wanted to try out Vite, I only used it for setting up the environment, as it helped create all the folders and files for me (package.json, etc), and IMO, was  beginner-friendly
+- **Vite**: For setting up the environment.
 - **JavaScript**: I decided to build this project with JavaScript rather than TypeScript, as I just wanted to try it out with React.
 
 ---
